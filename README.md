@@ -6,7 +6,7 @@
   - motorcycling
   - playing games
 - *current projects:*
-  - bachelors degree in CS
+  - CS bachelor @ Karlsruher Institut für Technologie
   - finishing my unfinished bots
   - finishing my algo visualisation tool
   - finishing a DB script
