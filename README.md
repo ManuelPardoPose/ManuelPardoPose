@@ -11,7 +11,7 @@
   - finishing my algo visualisation tool
   - finishing a DB script
 - *languages:*
-  - JAVA
+  - ![This is an image](java_logo.png)
   - C#
   - C
   - Python
