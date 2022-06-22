@@ -11,10 +11,8 @@
   - finishing my algo visualisation tool
   - finishing a DB script
 - *languages:*
-  - ![This is an image](java_logo.png)
-  - C#
-  - C
-  - Python
+  
+  ![Java](java_logo.png)![C#](c_sharp_logo.png)![C](c_logo.png) ![Python](python_logo.png)
 - *contact me via:*
   - **DISCORD: Der Donn#7343**
 
