@@ -11,7 +11,6 @@
   - CS bachelor @ Karlsruhe Institut für Technologie
   - finishing my unfinished bots
   - finishing my algo visualisation tool
-  - finishing a DB script
 
 
 - *languages:*
@@ -20,7 +19,7 @@
 
 
 - *contact me via:*
-  - <span style="color:#FCBA03">**DISCORD: Der Donn#7343**</span>
+  - **DISCORD: Der Donn#7343**
 
 
 [a good video worth watching](https://youtu.be/-g03jC71GBw)
