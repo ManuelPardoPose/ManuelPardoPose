@@ -1,21 +1,20 @@
-**Hi, I’m @ManuelPardoPose**
+# Hi, I’m Manuel Pardo Pose
 
 <!-- <img src="loading.gif" width="50" height="50" alt="loadingGif"> -->
 
-- *interests:* 
+### Interests:
   - coding
   - icehockey
   - motorcycling
-  - playing games
   
 
-- *current projects:*
+### current projects:
   - CS bachelor @ Karlsruhe Institut für Technologie
-  - finishing my unfinished bots
-  - finishing my algo visualisation tool
+  - [m_countdown](https://github.com/ManuelPardoPose/m_countdown)
+  - [portfolio website](https://manuelpardopose.github.io/)
 
 
-- *languages:*
+### languages:
 
   <img src="java_logo.png" alt="javaLogo">
   <img src="c_sharp_logo.png" alt="cSharpLogo">
@@ -24,7 +23,7 @@
   <img src="rust_logo.png" width="90" height="90" alt="rustLogo">
 
 
-- *contact me via:*
+### contact me via:
   - **DISCORD: Der Donn#7343**
   - **ELEMENT (Matrix): @manu.p.p:matrix.org**
 
