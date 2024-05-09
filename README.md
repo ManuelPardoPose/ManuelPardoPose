@@ -15,7 +15,6 @@
 
 
 ### languages:
-
   <img src="java_logo.png" alt="javaLogo">
   <img src="c_sharp_logo.png" alt="cSharpLogo">
   <img src="c_logo.png" alt="cLogo">
