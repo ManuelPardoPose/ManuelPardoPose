@@ -15,11 +15,23 @@
 
 
 ### languages:
-  <img src="java_logo.png" alt="javaLogo">
-  <img src="c_sharp_logo.png" alt="cSharpLogo">
-  <img src="c_logo.png" alt="cLogo">
-  <img src="python_logo.png" alt="pythonLogo">
-  <img src="rust_logo.png" width="90" height="90" alt="rustLogo">
+<div style="display:flex">
+     <div style="flex:1;padding-right:5px;">
+        <img src="java_logo.png" alt="javaLogo">
+     </div>
+     <div style="flex:1;padding-right:5px;">
+        <img src="c_sharp_logo.png" alt="cSharpLogo">
+     </div>
+     <div style="flex:1;padding-right:5px;">
+        <img src="c_logo.png" alt="cLogo">
+     </div>
+     <div style="flex:1;padding-right:5px;">
+        <img src="python_logo.png" alt="pythonLogo">
+     </div>
+     <div style="flex:1;padding-right:5px;">
+        <img src="rust_logo.png" width="90" height="90" alt="rustLogo">
+     </div>
+</div>
 
 
 ### contact me via:
