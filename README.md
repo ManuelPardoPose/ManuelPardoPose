@@ -1,6 +1,6 @@
 **Hi, I’m @ManuelPardoPose**
 
-<img src="loading.gif" width="50" height="50" alt="loadingGif">
+<!-- <img src="loading.gif" width="50" height="50" alt="loadingGif"> -->
 
 - *interests:* 
   - coding
