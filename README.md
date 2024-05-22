@@ -1,20 +1,16 @@
 # Hi, I’m Manuel Pardo Pose
 
-<!-- <img src="loading.gif" width="50" height="50" alt="loadingGif"> -->
-
 ### Interests:
   - coding
   - icehockey
   - motorcycling
-  
 
-### current projects:
+### Current Projects:
   - CS bachelor @ Karlsruhe Institut für Technologie
   - [m_countdown](https://github.com/ManuelPardoPose/m_countdown)
   - [portfolio website](https://manuelpardopose.github.io/)
 
-
-### languages:
+### Languages:
   - Java
   - Python
   - Rust
@@ -23,10 +19,6 @@
   - TypeScript
   - JavaScript
 
-
-### contact me via:
+### Contact me via:
   - Discord: **Der Donn#7343**
-  - ELEMENT (Matrix): **@manu.p.p:matrix.org**
-
-
-[a good video worth watching](https://youtu.be/-g03jC71GBw)
+  - [Matrix](https://matrix.to/#/@manu.p.p:matrix.org)
