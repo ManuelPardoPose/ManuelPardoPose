@@ -4,20 +4,21 @@
   - coding
   - icehockey
   - motorcycling
+  - music
 
 ### Current Projects:
   - CS bachelor @ Karlsruhe Institut für Technologie
   - [m_countdown](https://github.com/ManuelPardoPose/m_countdown)
   - [portfolio website](https://manuelpardopose.github.io/)
+  - [cafezinho](https://github.com/ManuelPardoPose/cafezinho)
 
-### Languages:
+### Languages I work or have worked with:
+  - Rust
   - Java
   - Python
-  - Rust
+  - TS/JS
   - C#
   - C++
-  - TypeScript
-  - JavaScript
 
 ### Contact me via:
   - Discord: **Der Donn#7343**
