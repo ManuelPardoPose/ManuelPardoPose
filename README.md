@@ -8,6 +8,7 @@
 
 ### Current Projects:
   - CS bachelor @ Karlsruhe Institut für Technologie
+  - [mergedog](https://github.com/ManuelPardoPose/mergedog)
   - [m_countdown](https://github.com/ManuelPardoPose/m_countdown)
   - [portfolio website](https://manuelpardopose.github.io/)
   - [cafezinho](https://github.com/ManuelPardoPose/cafezinho)
