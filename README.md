@@ -8,12 +8,13 @@
 
 ### Current Projects:
   - CS bachelor @ Karlsruhe Institut für Technologie
-  - [mergedog](https://github.com/ManuelPardoPose/mergedog)
-  - [m_countdown](https://github.com/ManuelPardoPose/m_countdown)
-  - [portfolio website](https://manuelpardopose.github.io/)
-  - [cafezinho](https://github.com/ManuelPardoPose/cafezinho)
 
-### Languages I work or have worked with:
+### Some Tools I Have Written
+- [mergedog](https://github.com/ManuelPardoPose/mergedog)
+- [image-manipulation](https://github.com/ManuelPardoPose/image-manipulation)
+- [m_countdown](https://github.com/ManuelPardoPose/m_countdown)
+
+### Languages I Work Or Have Worked With:
   - Rust
   - Java
   - Python
@@ -21,6 +22,6 @@
   - C#
   - C++
 
-### Contact me via:
+### Contact Me Via:
   - Discord: **Der Donn#7343**
   - [Matrix](https://matrix.to/#/@manu.p.p:matrix.org)
